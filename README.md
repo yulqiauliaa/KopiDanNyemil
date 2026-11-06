@@ -84,6 +84,19 @@ Untuk langsung mencoba tanpa mendaftar:
 |---|---|
 | `kopi` | `123456` |
 
+## Screenshot
+
+| Splash | Sign Up | Login |
+|---|---|---|
+| ![Splash](screenshots/splash.png) | ![Sign Up](screenshots/signup.png) | ![Login](screenshots/login.png) |
+
+| Register | Home | Profile |
+|---|---|---|
+| ![Register](screenshots/register.png) | ![Home](screenshots/home.png) | ![Profile](screenshots/profile.png) |
+
+| Alamat | Konfirmasi |
+|---|---|
+| ![Alamat](screenshots/address.png) | ![Konfirmasi](screenshots/confirm.png) |
 
 ## Sumber Aset
 
